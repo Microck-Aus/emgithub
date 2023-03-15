@@ -1,5 +1,7 @@
 # emgithub
 
+Fork for use on the microck.io blog https://microck-aus.github.io/emgithub/
+
 https://emgithub.com/
 
 Embed a file from GitHub repository just like [GitHub Gist](https://gist.github.com/).
